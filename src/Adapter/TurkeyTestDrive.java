@@ -1,4 +1,4 @@
-package headfirst.adapter.ducks;
+package Adapter;
 
 public class TurkeyTestDrive {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package headfirst.adapter.ducks;
+package Adapter;
 
 public class MallardDuck implements Duck {
 	public void quack() {

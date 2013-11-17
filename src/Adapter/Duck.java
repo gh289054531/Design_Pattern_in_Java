@@ -1,4 +1,4 @@
-package headfirst.adapter.ducks;
+package Adapter;
 
 public interface Duck {
 	public void quack();

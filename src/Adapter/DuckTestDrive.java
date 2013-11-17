@@ -1,4 +1,4 @@
-package headfirst.adapter.ducks;
+package Adapter;
 
 public class DuckTestDrive {
 	public static void main(String[] args) {
