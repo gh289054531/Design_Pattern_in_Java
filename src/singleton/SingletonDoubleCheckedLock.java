@@ -3,8 +3,6 @@ package singleton;
 /**
  * 双检查式单实例，只能在JDK1.5之后版本使用 这种实现性能比较高
  * 
- * @author root
- * 
  */
 public class SingletonDoubleCheckedLock {
 	// 注意这里的volatile！
